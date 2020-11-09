@@ -8,7 +8,6 @@ a {
     color: #0a6738;
 }
 
-
 .container {
     max-width: 1600px !important;
 }
@@ -68,6 +67,7 @@ button > a > span {
 .org-icon {
     height: 50px;
 }
+
 
 #contact-form #message, #contact-form #email, #contact-form #name, #contact-form #surname, #contact-form #company {
     border: none;
