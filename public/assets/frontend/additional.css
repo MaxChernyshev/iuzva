@@ -20,10 +20,6 @@ header, footer {
     border-radius: 0;
 }
 
-.header-container {
-    /*max-width: 1440px;*/
-}
-
 .header-menu > div > ul > li > a {
     color: #ffffff !important;
 }
